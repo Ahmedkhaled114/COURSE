@@ -1,1 +1,3 @@
 # COURSE
+
+## PROJECT NOTES
